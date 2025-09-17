@@ -7,8 +7,8 @@ I found the idea of this IO board very useful, so I remixed the model to support
 
 
 
-![1](D:\多色MOD-Github\MMU-IO-Board\Assets\1.jpg)
+![1](Assets/1.jpg)
 
 
 
-![2](D:\多色MOD-Github\MMU-IO-Board\Assets\2.jpg)
+![2](Assets/2.jpg)
