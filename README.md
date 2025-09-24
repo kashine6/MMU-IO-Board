@@ -5,7 +5,7 @@ I found the idea of this IO board very useful, so I remixed the model to support
 
  If you need it, you can download the files from the **STL folder**.
 
-
+This board is available on [AliExpress](https://www.aliexpress.com/item/1005009982763250.html) .
 
 ![1](Assets/1.jpg)
 
